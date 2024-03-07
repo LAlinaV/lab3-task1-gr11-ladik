@@ -8,6 +8,6 @@
 //function findDegree is used in client file (main.c)
 //implementation is in server file (interface.h)
 
-bool findDegree(int x);
+int findDegree(int x);
 
 #endif

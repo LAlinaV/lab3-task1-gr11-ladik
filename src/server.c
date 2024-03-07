@@ -1,10 +1,10 @@
 #include "interface.h"
 
-bool findDegree(int x);
+int findDegree(int x);
 
-bool findDegree(int x) {
+int findDegree(int x) {
   if(x == 0){
-    return false;
+    return 0;
   } else {
   while (x % 5 == 0) {
     x /= 5;
