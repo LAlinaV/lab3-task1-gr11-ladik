@@ -1,4 +1,9 @@
 /* main.c */
+
+//
+// Created by Alina Ladik
+//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

@@ -1,6 +1,10 @@
-#include "interface.h"
+/*server*/
 
-int findDegree(int x);
+//
+//Created by ALina Ladik
+//
+
+#include "interface.h"
 
 int findDegree(int x) {
   if(x == 0){
