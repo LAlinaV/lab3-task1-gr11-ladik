@@ -1,2 +1,2 @@
 language = "c"
-run = "./main 9"
+run = "gcc -o labrabota-3 /home/runner/lab3-task1-gr11-ladik/main"
